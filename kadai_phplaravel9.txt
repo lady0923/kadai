@@ -1,0 +1,14 @@
+課題１
+URLとControllerやActionを紐づける機能をなんというか
+Routing
+　　
+課題２
+group化のメリット
+ルートが膨大に増えると管理が大変になりエラーの原因となる。
+group化により、まとめてルートを適用してそのようなエラーを防ぐことが可能。
+
+課題３
+Route::get('XXX', 'AAAcontroller@bbb'};
+
+課題４
+設定済み
